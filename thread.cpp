@@ -67,7 +67,6 @@ static unsigned int WINAPI  ThreadProc(LPVOID lpParam)
 {
 	zs_th_s::CThread * p = (zs_th_s::CThread *) lpParam;
 	p->Run();
-	_endthreadex(0);
 	return 0;
 }
 #else
