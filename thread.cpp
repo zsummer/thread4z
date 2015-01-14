@@ -85,7 +85,7 @@ bool zs_th_s::CThread::Start()
 #ifdef WIN32
 	unsigned long long ret = _beginthreadex(NULL, 0, ThreadProc, (void *) this, 0, NULL);
 
-	if (ret == -1 || ret == 1  || ret == 0)
+	if (ret == -1 || ret == 0)
 	{
 		return false;
 	}
