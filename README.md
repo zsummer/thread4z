@@ -12,6 +12,5 @@ Thread4z is an open source C++ lightweight cross-platform thread library.
 
 
 #Author: YaweiZhang.
-Web Site: www.zsummer.net  
-mail: yawei_zhang@foxmail.com  
+mail: yawei.zhang@foxmail.com  
 github: https://github.com/zsummer  
