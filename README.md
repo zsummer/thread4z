@@ -11,7 +11,7 @@ Thread4z is an open source C++ lightweight cross-platform thread library.
 5. 封装了部分原子操作AtomicAdd,AtomicInc,AtomicDec, 对于简单的计数等操作可通过此接口进行操作,可实现比用户态线程锁更极速的操作性能[packaging part of atomic operations AtomicAdd, AtomicInc, AtomicDec, for simple counting operation can be operated through this interface, can realize the lock operation performance is more extreme than the user mode threads].
 
 
-#Auther: YaweiZhang.
+#Author: YaweiZhang.
 Web Site: www.zsummer.net  
 mail: yawei_zhang@foxmail.com  
 github: https://github.com/zsummer  
